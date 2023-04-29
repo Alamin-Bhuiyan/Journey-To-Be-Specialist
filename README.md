@@ -24,6 +24,8 @@ In Codeforces you can see the list of programmers from all over the world in the
 
 **Now move on to problem-solving strategies in the PDF file.**
 
+## [Beginners Choice PDF](https://github.com/Alamin-Bhuiyan/Journey-To-Be-Specialist/blob/main/Beginners%20Choice.pdf)
+
 Keep patience and take my gratitude for reading this long document. Hope it will help you in some way. Now you shouldpractice more problems that are more than 200 of your current rating. Try to participate in Atcoder contests regularly.
 
 Here I also suggest solving these 100 problems: [Medium](https://kenkoooo.com/atcoder/?fbclid=IwAR2ZMrJ3rbRfc3hQIxBuCRi-6OpOWLfiNKjwQ7BdFcl66d13LQPuFe5dChI#/training/Boot%20camp%20for%20Beginners/2)[ ](https://kenkoooo.com/atcoder/?fbclid=IwAR2ZMrJ3rbRfc3hQIxBuCRi-6OpOWLfiNKjwQ7BdFcl66d13LQPuFe5dChI#/training/Boot%20camp%20for%20Beginners/2)[100
