@@ -17,9 +17,9 @@ As you are reading this, I hope you know about basic programming languages and o
 This section is suggested by Ashfaqur Rahman Adib([adibur6](https://codeforces.com/profile/adibur6)). Those who are eager forcompetitive programming need to love this sector and also try to find interesting content in competitive programming. Competitive programming is a long-term process, it will be better if you make it fascinating.
 
 It is also suggested that you keep track of your day-to-day problem-solving.
-Let’s see codeforces at a glance:
-In Codeforces you can see the list of programmers from all over the world in the There is a [rating](https://codeforces.com/ratings) section.
 
+Let’s see codeforces at a glance:
+In Codeforces you can see the list of programmers from all over the world in the [rating](https://codeforces.com/ratings) section.
 <a name="br2"></a>Add them to your friend list and follow their hard work and dedication. There is a [catalog](https://codeforces.com/catalog)[ ](https://codeforces.com/catalog)[section](https://codeforces.com/catalog)[ ](https://codeforces.com/catalog)where you can find a lot of resources.
 
 **Now move on to problem-solving strategies in the PDF file.**
